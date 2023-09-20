@@ -26,7 +26,7 @@ This web-based application allows users to check the weather of a specific locat
 
 <b>JavaScript</b>: JavaScript handles the interaction with the OpenAPI and the dynamic updating of weather information.<br>
 
-<h2>Installation<h2>
+<h2>Installation</h2>
 Clone the repository to your local machine using the following command:
 
 <b>bash</b><br>
